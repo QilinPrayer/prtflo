@@ -1,0 +1,20 @@
+Emails
+
+
+Email:Example@email.com
+Subject:This is a sample message.
+Message:Trying out various multiline responses.
+Attempting to write multiple lines.
+I don't know what to write.
+
+
+Email:Example@email.com
+Subject:Another sample email.
+Message:Hello! Like omg, what do I put here?! It's kinda driving me real nutty in the fact that I have no idea what to put. Like a real fuckie in the brain, what the heckie. I think I might cry.
+How does it handle longer lines? I DON'T KNOW!
+It's just kinda crazy that I'm doing this.
+
+---------------------------------------------------------------------------------
+Email:w@w
+Subject:asdasdsadas
+Message:asdagagawaesaewqeqtrqsgfqwsesaewq
